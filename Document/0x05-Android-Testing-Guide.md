@@ -6,13 +6,17 @@
 ### Tools
 
 ## Android Application Mapping
-### Retrieve package information
+### Retrieve package information with Drozer
 ### Navigate Application
 ### Create Inventory, Input fields UX
-### Threat modeling Analysis for Android apps
+### Threat Modeling Analysis for Android apps
 
 ## Code Review
-### Using Android Lint
+### Manual Code Review
+#### Verifying Secure Implemnetation of WebViews
+#### Verifying Secure implemntation of Data Storage
+#### Verifying Proper permissions in Android Manifest
+#### Android Lint Static Analyzer
 
 ## Client Attacks
 ### Reverse Engineering
@@ -20,12 +24,15 @@
 #### Test Android Permissions - AndroidManifest
 #### Testing implementation of Obfuscation
 #### Testing implementation of Secure communications
-#### Testing implementation of Certificate Pinnen
+#### Testing implementation of Certificate Pinning
 #### Testing Device Rooted detetection
 #### Testing Secure Cryptography
+#### Testing Weak Authentication
+#### Testing Weak Authorization
+
 
 
 #### Testing Data Leaked
 ### Testing Internal Storage access 
-### Testing Externat Storage access
+### Testing External Storage access
 ### Content Providers access
