@@ -7,6 +7,8 @@
 ### Tools
 
 ## Client Attacks
+### Static Analysis
+### Reverse Engineering
 ### Testing Internal Storage access 
 ### Testing Externat Storage access
 ### Content Providers access
