@@ -10,11 +10,13 @@
 ### Navigate Application
 ### Create Inventory, Input fields UX
 ### Threat Modeling Analysis for Android apps
+#### Identify the Attack Surface with Drozer
+#### Launching Activities
 
 ## Code Review
 ### Manual Code Review
-#### Verifying Secure Implemnetation of WebViews
-#### Verifying Secure implemntation of Data Storage
+#### Verifying Secure Implementation of WebViews
+#### Verifying Secure implementation of Data Storage
 #### Verifying Proper permissions in Android Manifest
 #### Correct use of cryptology
 #### Android Lint Static Analyzer
@@ -31,7 +33,8 @@
 #### Testing Weak Authentication
 #### Testing Weak Authorization
 
-### Testing Data Leak
+### Testing Data Leakage
 #### Testing Internal Storage access 
 #### Testing External Storage access
 #### Content Providers access
+##### Testing Database-backed Content Providers (Data Leakage)
