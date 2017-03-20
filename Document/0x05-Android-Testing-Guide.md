@@ -14,10 +14,13 @@
 #### Launching Activities
 
 ## Code Review
-### Manual Code Review
 #### Verifying Secure Implementation of WebViews
 #### Verifying Secure implementation of Data Storage
 #### Verifying Proper permissions in Android Manifest
+#### Verify proper configuration of Security Configuration File
+##### Pinning Certificate
+##### CA and Set of Trusted CA's
+##### Clear Text Traffic
 #### Correct use of cryptology
 #### Android Lint Static Analyzer
 
