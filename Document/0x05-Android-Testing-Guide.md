@@ -16,6 +16,7 @@
 #### Verifying Secure Implemnetation of WebViews
 #### Verifying Secure implemntation of Data Storage
 #### Verifying Proper permissions in Android Manifest
+#### Correct use of cryptology
 #### Android Lint Static Analyzer
 
 ## Client Attacks
