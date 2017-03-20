@@ -20,7 +20,7 @@
 
 ## Client Attacks
 ### Reverse Engineering
-### Static Analysis of APK's with MobSF and Bytecodeviewer
+#### Static Analysis of APK with MobSF and Bytecodeviewer
 #### Test Android Permissions - AndroidManifest
 #### Testing implementation of Obfuscation
 #### Testing implementation of Secure communications
@@ -30,9 +30,7 @@
 #### Testing Weak Authentication
 #### Testing Weak Authorization
 
-
-
-#### Testing Data Leaked
-### Testing Internal Storage access 
-### Testing External Storage access
-### Content Providers access
+### Testing Data Leak
+#### Testing Internal Storage access 
+#### Testing External Storage access
+#### Content Providers access
