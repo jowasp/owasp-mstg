@@ -23,18 +23,22 @@
 
 ## Client Attacks
 ### Reverse Engineering
+
 #### Static Analysis of APK with MobSF and Bytecodeviewer
-#### Test Android Permissions - AndroidManifest
-#### Testing implementation of Obfuscation
-#### Testing implementation of Secure communications
-#### Testing implementation of Certificate Pinning
-#### Testing Device Rooted detetection
-#### Testing Secure Cryptography
-#### Testing Weak Authentication
-#### Testing Weak Authorization
+##### Testing implementation of Obfuscation
+
+#### Code Manipulation with Frida & Xposed
+##### Testing implementation of Secure communications
+##### Testing implementation of Certificate Pinning
+##### Testing Device Rooted detetection
+##### Testing Secure Cryptography
+##### Testing Weak Authentication
+##### Testing Weak Authorization
 
 ### Testing Data Leakage
 #### Testing Internal Storage access 
 #### Testing External Storage access
-#### Content Providers access
+#### Testing Content Providers access with Drozer
 ##### Testing Database-backed Content Providers (Data Leakage)
+##### Testing Database-backed Content Providers (SQL Injection) 
+##### Testing File System-backed Content Providers
