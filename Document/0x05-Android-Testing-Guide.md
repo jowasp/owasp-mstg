@@ -1,7 +1,7 @@
 # Testing Application Security on Android
 
 ## Preparing the test environment
-### Configurimg  Rooted Devices
+### Configuring  Rooted Devices
 ### Hardware
 ### Tools
 
